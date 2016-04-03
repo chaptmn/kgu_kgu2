@@ -1,0 +1,104 @@
+
+
+body, html {margin:0 0; padding:0 0;
+             width:100%; height:100%;
+            background-color:white;}
+
+
+          html{font-size: 62.5%;}
+          body{font-size: 10px;
+            font-size: 2.3rem;}
+
+
+
+  body {
+      -webkit-text-size-adjust:100%;
+  }
+
+
+
+
+.Tab_content{
+   width:100%;
+   margin:0;
+   position: fixed ;
+   bottom:0px;
+   right:0px;
+   color:#000;
+   border: black 2px solid;
+    margin:0;
+    background: white;
+    opacity: 0.8;
+    /*border-radius:20%;*/
+    text-align: center;
+    font-size: 6rem;
+
+
+}
+
+a:hover{cursor:pointer;}
+
+ .navi{
+   margin: 0 0;
+   position: fixed;
+    top:2px;
+    left:0px;
+  z-index: 100;}
+
+
+ul{margin: 0 0;}
+
+
+ li{
+   list-style:none;
+font-size: 3.8rem;
+  text-align:center;
+      width:100%;
+      height:91%;
+      background:white;
+      margin: 0 0;
+      color:black;
+      text-shadow:none;
+      opacity: 0.6;
+    font-family:HannariMincho;
+      padding:300px 15px 50px;
+    position: fixed;
+    top:0px;
+    left:0px;
+  }
+
+
+
+.box2 { width:100%; height:20%;
+             color:tomato;
+              font-weight: 100;
+             text-align:right;
+             margin:0 0;
+           }
+
+
+
+.section{
+      text-align:center;
+      color:black;
+    }
+
+
+pre {
+      text-align :center;
+      font-size:1.8em;
+      font-family:HannariMincyo;
+
+
+     }
+
+.big {
+     font-size:1.8em;
+}
+
+#button1{width:200px;
+height:50px;
+font-size:30px;
+background:white;
+border-radius:10%;
+font-family:MOON;}
